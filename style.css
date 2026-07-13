@@ -89,3 +89,40 @@
     color:darkgrey;
     font-size:16px;
 }
+.sp1{
+    align-content: center;
+    color:gray;
+    text-align: center;
+}
+.price-grid{
+    display:grid;
+    grid-template-columns:repeat(3,1fr);
+    gap:35px;
+}
+.sp2{
+    color:gray;
+}
+
+.feature-list li::marker{
+    color:blue;
+}
+.start{
+     background-color:white;
+    margin: 1;
+    text-align: center;
+    color: blue;
+    border-radius:full; 
+}
+.sp3{
+    color:blue;
+}
+.pro{
+     background-color:blue;
+    margin: 1;
+    text-align: center;
+    color:white;
+    border-radius:full; 
+}
+.bgc{
+    background-color: rgb(151, 249, 205);
+}
