@@ -11,3 +11,9 @@
     padding: 0;
     margin: 0;
 }
+.reg-button{
+    background-color: blue;
+    margin: none;
+    color: aliceblue;
+    border-radius:6; 
+}
