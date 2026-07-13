@@ -1,0 +1,13 @@
+.container {
+    display: flex;
+    justify-content: space-between; /* Logo on left, menu on right */
+    align-items: center;            /* Vertically center them */
+}
+
+.nav-menu {
+    display: flex;
+    list-style: none;
+    gap: 30px;
+    padding: 0;
+    margin: 0;
+}
