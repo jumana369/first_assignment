@@ -17,3 +17,25 @@
     color: aliceblue;
     border-radius:6; 
 }
+ .hero1{
+    background:url("./banner.jpg") center center/cover no-repeat;
+
+    height:100vh;
+
+    position:relative;
+ }
+.hero{
+    align-content: center;
+    color: aliceblue;
+    text-align: center;
+    background-image:;
+}
+.reg{
+    align-content: center;
+    background-color: blue;
+    margin: none;
+    color: aliceblue;
+    border-radius:6;
+    text-align: center;
+    justify-content: center;
+}
